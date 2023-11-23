@@ -7,7 +7,7 @@
     <relativePath>../master/pom.xml</relativePath>
   </parent>
 
-  <name>Sakai Common Project</name>
+  <name>Sakai Common Project - new name</name>
   <groupId>org.sakaiproject.common</groupId>
   <artifactId>common</artifactId>
   <packaging>pom</packaging>
